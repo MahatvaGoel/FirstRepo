@@ -1,4 +1,4 @@
 # FirstRepo
 Understanding git and github
 <br>
-Thia is my second day learning git 
+Thia is my third day learning git 
